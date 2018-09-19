@@ -2,10 +2,9 @@
 package com.prashant.mvvm.model;
 /**
  * @author : Prashant P
- * @Name: Country
+ *
  * Created in 2018 as an unpublished copyright work.
  * All rights reserved.
- *
  */
 
 import com.google.gson.annotations.Expose;

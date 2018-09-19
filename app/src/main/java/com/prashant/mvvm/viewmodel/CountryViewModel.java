@@ -1,5 +1,10 @@
 package com.prashant.mvvm.viewmodel;
-
+/**
+ * @author : Prashant P
+ *
+ * Created in 2018 as an unpublished copyright work.
+ * All rights reserved.
+ */
 import android.content.Context;
 import android.databinding.ObservableBoolean;
 import android.databinding.ObservableField;

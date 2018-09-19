@@ -1,7 +1,7 @@
 package com.prashant.mvvm.view.activity;
 /**
  * @author : Prashant P
- * @Name: SplashScreenActivity
+ *
  * Created in 2018 as an unpublished copyright work.
  * All rights reserved.
  */

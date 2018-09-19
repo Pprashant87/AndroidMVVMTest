@@ -1,5 +1,10 @@
 package com.prashant.mvvm.app;
-
+/**
+ * @author : Prashant P
+ *
+ * Created in 2018 as an unpublished copyright work.
+ * All rights reserved.
+ */
 import android.app.Application;
 import android.content.Context;
 

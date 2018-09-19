@@ -1,5 +1,10 @@
 package com.prashant.mvvm.utils;
-
+/**
+ * @author : Prashant P
+ *
+ * Created in 2018 as an unpublished copyright work.
+ * All rights reserved.
+ */
 import com.prashant.mvvm.model.Row;
 
 import java.util.ArrayList;

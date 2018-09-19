@@ -14,7 +14,12 @@ import android.support.v7.widget.Toolbar;
 import android.text.TextUtils;
 import android.view.View;
 import android.widget.TextView;
-
+/**
+ * @author : Prashant P
+ *
+ * Created in 2018 as an unpublished copyright work.
+ * All rights reserved.
+ */
 
 
 import com.prashant.mvvm.R;

@@ -1,11 +1,10 @@
 package com.prashant.mvvm.utils.network;
 /**
  * @author : Prashant P
- * @Name: ConnectivityReceiver
+ *
  * Created in 2018 as an unpublished copyright work.
  * All rights reserved.
  */
-
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;

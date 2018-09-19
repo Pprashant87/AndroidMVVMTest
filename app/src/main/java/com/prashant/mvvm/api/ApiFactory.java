@@ -1,5 +1,10 @@
 package com.prashant.mvvm.api;
-
+/**
+ * @author : Prashant P
+ *
+ * Created in 2018 as an unpublished copyright work.
+ * All rights reserved.
+ */
 import com.jakewharton.retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory;
 import com.prashant.mvvm.app.AppController;
 import com.prashant.mvvm.utils.AppConstants;

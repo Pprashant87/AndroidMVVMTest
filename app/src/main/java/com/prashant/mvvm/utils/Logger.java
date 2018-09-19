@@ -1,10 +1,9 @@
 package com.prashant.mvvm.utils;
 /**
  * @author : Prashant P
- * @Name: Logger
+ *
  * Created in 2018 as an unpublished copyright work.
  * All rights reserved.
- *
  */
 import android.util.Log;
 
